@@ -1,0 +1,4 @@
+include ramndiazblog/schema.sql
+graft ramndiazblog/static
+graft ramndiazblog/templates
+global-exclude *.pyc
